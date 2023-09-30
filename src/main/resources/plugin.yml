@@ -1,0 +1,5 @@
+name: gunpowderblock
+version: '${project.version}'
+main: org.hotal.gunpowderblock.Gunpowderblock
+api-version: '1.20'
+load: STARTUP
